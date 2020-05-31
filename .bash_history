@@ -210,3 +210,18 @@ cd ../../
 ls -lrt
 cd vamsi4698/
 ls -lrt
+git add .
+git commit -m "First commit"
+git config --global vasmi4698@gmail.com
+git config --global user.name vamsikrishna46
+git config --global vasmi4698@gmail.com
+git config --global user.email  vasmi4698@gmail.com
+git commit -m "First commit"
+ls -lrt
+git push origin master
+git remote add origin remote repository URL
+git push
+git push DevOps
+git pull
+git config --list
+git remote add origin https://github.com/vamsikrishna46/DevOps.git
